@@ -102,3 +102,4 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 This starter kit is also open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
 Credit is not required, but it is highly appreciated. If this project helped you, please leave a star and let me know! I'd LOVE to see what you build using this. I'm happy to add a link to your site in this readme if you are using it.
+# laravelku
